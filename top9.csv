@@ -1,0 +1,10 @@
+﻿Name,Year,Asset_Value,Filing_Date,Leverage_Date,Time_Actual,Total_Debt,Total_Equity,Total_Cap,Rebased_Debt,Notes,Time_Predicted_Beta1,Time_Predicted_Beta2,Time_Predicted_Beta3,Accuracy_Beta1,Accuracy_Beta2,Accuracy_Beta3,Source
+American,2011,24.7,11/29/2011,12/31/2007,1429,25.914,2.657,28.571,90.700,,,,,,,,
+United,2002,22.8,12/9/2002,12/31/2001,343,19.18,5.54,24.72,77.589,,,,,,,,
+Delta,2005,21.6,9/15/2005,9/30/2000,1811,16.099,5.706,21.805,73.832,,,,,,,,
+Northwest,2005,14.4,9/15/2005,12/31/2000,1719,2.793,0.231,3.024,92.361,,,,,,,,https://www.bamsec.com/filing/91205702013064/1?cik=1058033&hl=141687:141692&hl_id=vj9q2jxcu
+US Airways,2004,8.6,9/13/2004,12/31/2003,257,2.941,0.089,3.03,97.063,,,,,,,,https://www.bamsec.com/filing/119312505038938/1?cik=714560&hl=211513:211516&hl_id=ejyurox9o
+US Airways,2002,8,8/11/2002,12/31/1998,1319,1.955,0.593,2.548,76.727,,,,,,,,https://www.bamsec.com/filing/70134500000005/1?cik=714560&hl=168020:168023&hl_id=4y2opjxc_
+Continental,1990,7.7,12/4/1990,,,,,,,Financials unavailable,,,,,,,
+Eastern,1989,4,3/9/1989,,,,,,,Not publicly traded,,,,,,,
+TWA,1992,2.9,2/1/1992,,,,,,,Not publicly traded,,,,,,,
